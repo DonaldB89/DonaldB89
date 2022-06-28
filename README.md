@@ -1,6 +1,6 @@
 <h2>👋 Hi, I’m <a href="https://www.donald-barclay.com">Donald</a></h2>
 <ul>
-<li>💼 I am a Senior Digital Analyst</li>
+<li>💻 I am a Senior Digital Analyst</li>
 <li>🧐 My main interests are Machine learning, Deep learning and Data Visualisation</li>
 </ul>
 
