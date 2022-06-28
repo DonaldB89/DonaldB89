@@ -1,8 +1,8 @@
-- <h2>👋 Hi, I’m [Donald Barclay!](https://www.donald-barclay.com "My Site")</h2>
+- <h3>👋 Hi, I’m <a href="https://www.donald-barclay.com">Donald</a></h3>
 - 👀 I’m interested in Data science and analytics
 - 🌱 I’m currently learning Machine/Deep Learning
 
-<h2>Tools</h2>
+<h3>Tools</h3>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" />
