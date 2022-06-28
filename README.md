@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @DonaldB89
+- 👋 Hi, I’m [Donald Barclay!](https://www.donald-barclay.com "My Site")
 - 👀 I’m interested in Data science and analytics
 - 🌱 I’m currently learning Machine/Deep Learning
 
-[My site!](https://www.donald-barclay.com "My Site")
+###Languages
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+
+
 
 [![Donald's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonaldB89)](https://github.com/anuraghazra/github-readme-stats)
 
