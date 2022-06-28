@@ -2,6 +2,8 @@
 - 👀 I’m interested in Data science and analytics
 - 🌱 I’m currently learning Machine/Deep Learning
 
+[I'm an inline-style link with title](https://www.donald-barclay.com "My Site")
+
 [![Donald's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonaldB89)](https://github.com/anuraghazra/github-readme-stats)
 
 
