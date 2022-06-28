@@ -1,6 +1,8 @@
 <h2>👋 Hi, I’m <a href="https://www.donald-barclay.com">Donald</a></h2>
-- 👀 I’m interested in Data science and analytics
-- 🌱 I’m currently learning Machine/Deep Learning
+<ul>
+<li>💼 I am a Senior Digital Analyst</li>
+<li>🧐 My main interests are Machine learning, Deep learning and Data Visualisation</li>
+</ul>
 
 <h2>🧰 Tools</h2>
 <p align="left">
