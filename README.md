@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Donald Barclay!](https://www.donald-barclay.com "My Site")
+- <h2>👋 Hi, I’m [Donald Barclay!](https://www.donald-barclay.com "My Site")</h2>
 - 👀 I’m interested in Data science and analytics
 - 🌱 I’m currently learning Machine/Deep Learning
 
