@@ -1,7 +1,7 @@
 <h2>👋 Hi, I’m <a href="https://www.donald-barclay.com">Donald</a></h2>
 <ul>
 <li>💻 I am a Senior BI Consultant</li>
-<li>🧐 My main interests are Machine learning, Deep learning and Data Visualisation</li>
+<li>🧐 My main interests are Data Visualisation, Deep learning and Machine learning</li>
 </ul>
 
 <h2>🧰 Tools</h2>
